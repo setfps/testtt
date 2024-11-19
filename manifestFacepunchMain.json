@@ -1,0 +1,119 @@
+{
+  "ManifestVersion": 3,
+  "Date": "2024-11-19T22:09:39.334564Z",
+  "News": {
+    "Blogs": [
+      {
+        "Date": "2024-11-07T04:49:00",
+        "ShortName": "armed-and-animated",
+        "Title": "Armed and Animated",
+        "HeaderImage": "https://files.facepunch.com/paddy/20241104/gesturepack_hero_01.jpg",
+        "SummaryHtml": "This month's update brings you TWO new weapons - the handmade SMG and SKS rifle, additionally, new and improved wolf AI, Gesture Pack DLC, plus the usual bug fixes & QoL changes!",
+        "Url": "https://rust.facepunch.com/blog/armed-and-animated/",
+        "Tags": "DEVBLOG"
+      }
+    ]
+  },
+  "Administrators": [
+    {
+      "UserId": "76561197960279927",
+      "Level": "Administrator"
+    }
+  ],
+  "Heroes": [
+    {
+      "HeroId": 15,
+      "Ident": "companion01",
+      "MediaUrl": "https://files.facepunch.com/paddy/20240515/herovid_companionapp.webm",
+      "TitleText": "",
+      "ActionText": "Download",
+      "TargetUrl": "https://rust.facepunch.com/companion",
+      "Conditions": "",
+      "Chance": 0.1
+    }
+  ],
+  "SentryUrl": "https://6975b41a59924b48bac4fa8a40117a2d:01fd52e3df8c48488e2d90fcf0634f2e@sentry.io/51079",
+  "DatabaseUrl": "https://api.facepunch.com/api/public/database/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "FeedbackUrl": "https://api.facepunch.com/api/public/feedback/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "ReportUrl": "https://api.facepunch.com/api/public/feedback/report/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "LeaderboardUrl": "https://api.facepunch.com/api/public/leaderboard/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "BenchmarkUrl": "https://api.facepunch.com/api/public/benchmark/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "AccountUrl": "https://api.facepunch.com/api/public/account/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "Servers": {
+    "Official": [
+      {
+        "Address": "185.189.255.74",
+        "Port": 35000,
+        "Tags": ""
+      },
+      {
+        "Address": "178.32.14.213",
+        "Port": 35010,
+        "Tags": ""
+      },
+    ],
+    "Banned": [
+      "176.53.162.64",
+    ]
+  },
+  "Metadata": {
+    "LoadingScreens": [
+      "https://files.facepunch.com/Errn/1b0611b1/2024-11_November-Update_LoadingScreen.jpg",
+      "https://files.facepunch.com/paddy/20240517/recyclers_radtown.jpg"
+    ],
+    "BlockedServers": [
+      "38.101.112.37:*",
+    ],
+    "TrophyPages": [
+      {
+        "EventTitle": "Негры",
+        "Logo": "https://files.facepunch.com/Alistair/07/29/6e9331/SwYyDvCo.png",
+        "WinningTeam": "Негры1",
+        "TeamMembers": [
+          "Blooprint",
+          "hJune",
+          "trausi",
+          "Coma",
+          "alpacasita",
+          "Large",
+          "TeaGuyTom",
+          "MixelPlx",
+          "HyperRat",
+          "AverageJonas",
+          "Repoze",
+          "Jimmychu",
+          "TheOrigamiGuru",
+          "5up",
+          "Sven",
+          "retzi"
+        ]
+      }
+    ],
+    "RadioStations": [
+      "World Music Radio,http://stream.wlmm.dk:8010/wmrmp3",
+      "JAZZ.FM91,https://jazzfm91.streamb.live/SB00024"
+    ],
+    "Features": {
+      "client_analytics": true,
+      "server_analytics": true
+    },
+    "ClientVersions": {
+      "release": {
+        "Changeset": 106659,
+        "Timestamp": 1722539771
+      },
+      "main": {
+        "Changeset": 0,
+        "Timestamp": 0
+      },
+      "Aux2": {
+        "Changeset": 100711,
+        "Timestamp": 1720568330
+      }
+    }
+  },
+  "Features": {
+    "client_analytics": true,
+    "server_analytics": true
+  }
+}
